@@ -11,4 +11,8 @@
   -> [Quartus](https://drive.google.com/drive/folders/1e_Yc1MO5Dt27wSM18jYi1vjcFGEhL2_W?usp=sharing) DPSD<br>
   -> [JavaJDK](https://www.oracle.com/in/java/technologies/downloads/) JAVA<br>
 
+
+
+# Placement and internship 
+[Placement 2021-2022](https://github.com/KKBUGHUNTER/Important/blob/main/SSN%20Placement%202021%20-%202022.pdf)
 ### Thank you Keep supporting 

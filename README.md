@@ -15,5 +15,5 @@
 
 # Placement and internship 
 [Placement 2021-2022](https://github.com/KKBUGHUNTER/Important/blob/main/SSN%20Placement%202021%20-%202022.pdf)<br>
-[Placement%202022-2023](https://github.com/KKBUGHUNTER/Important/blob/main/Placement%202022-2023.pdf)
+[Placement 2022-2023](https://github.com/KKBUGHUNTER/Important/blob/main/Placement%202022-2023.pdf)
 ### Thank you Keep supporting 

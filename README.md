@@ -11,8 +11,8 @@
   -> [Quartus](https://drive.google.com/drive/folders/1e_Yc1MO5Dt27wSM18jYi1vjcFGEhL2_W?usp=sharing) DPSD<br>
   -> [JavaJDK](https://www.oracle.com/in/java/technologies/downloads/) JAVA<br>
 ## Semester 4
-  -> [Oracle 11g](https://drive.google.com/drive/u/1/folders/1b2zs1ybTZ2s4HznPrrIEJ14enUz4wb_k)
-
+  -> [Oracle 11g](https://drive.google.com/drive/u/1/folders/1b2zs1ybTZ2s4HznPrrIEJ14enUz4wb_k) <br>
+    --> [official site](oracle.com/in/database/technologies/oracle19c-windows-downloads.html)
 
 # Placement and internship 
 [Placement 2021-2022](https://github.com/KKBUGHUNTER/Important/blob/main/SSN%20Placement%202021%20-%202022.pdf)<br>

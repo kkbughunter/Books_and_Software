@@ -16,5 +16,6 @@
   - [Mars4_5 COA](https://github.com/KKBUGHUNTER/Books_and_Software/blob/main/Mars4_5.jar)
 # Placement and internship 
 [Placement 2021-2022](https://github.com/KKBUGHUNTER/Important/blob/main/SSN%20Placement%202021%20-%202022.pdf)<br>
-[Placement 2022-2023](https://github.com/KKBUGHUNTER/Important/blob/main/Placement%202022-2023.pdf)
+[Placement 2022-2023](https://github.com/KKBUGHUNTER/Important/blob/main/Placement%202022-2023.pdf) <br>
+[NPTEL Video Course](https://github.com/KKBUGHUNTER/Books_and_Software/blob/main/NPTEL-2230-video-courses.pdf) <br>
 ### Thank you Keep supporting 
